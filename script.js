@@ -242,7 +242,7 @@ document.addEventListener("DOMContentLoaded", function() {
     if (!heroTitle) return;
 
     // Texto final
-    const finalText = "Tu negocio funciona.\nTú ya no.";
+    const finalText = "Sabes lo que sabes hacer.\n Solo falta el cómo.";
 
     // Limpiar contenido previo
     heroTitle.innerHTML = "";
